@@ -1,0 +1,25 @@
+{
+  "name": "Tie Scenario - 4 Players same score (20 points)",
+  "id": 4,
+  "input": {
+    "cards": [
+      {
+        "userId": "1",
+        "card": "10c;10c"
+      },
+      {
+        "userId": "2",
+        "card": "5s;10c"
+      },
+      {
+        "userId": "3",
+        "card": "7c;13c"
+      },
+      {
+        "userId": "4",
+        "card": "4c;8c;8c"
+      }
+    ]
+  }
+}
+
